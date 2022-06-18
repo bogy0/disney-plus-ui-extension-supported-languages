@@ -3,6 +3,12 @@
   "name": "Disney+ UI Extension",
   "description": "Display available audio tracks for episodes on the Disney+ web UI",
   "version": "1.0.0",
+  "icons": {
+    "16": "icon48.png",
+    "32": "icon48.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "permissions": [
     "scripting",
     "https://disneyplus.com/*"
