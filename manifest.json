@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Disney+ UI Extension",
   "description": "Display available audio tracks for episodes on the Disney+ web UI",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "icons": {
     "16": "icon48.png",
     "32": "icon48.png",
